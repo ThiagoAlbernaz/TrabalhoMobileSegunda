@@ -15,7 +15,7 @@
 
 ## Capturas de Tela
 
-<img src="assets/Captutra_1.png" alt="" height="500"/>
+<img src="assets/Captura_1.png" alt="" height="500"/>
 <img src="assets/Captura_2.png" alt="" height="500"/>
 
 
