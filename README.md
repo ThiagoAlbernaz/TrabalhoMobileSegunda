@@ -1,43 +1,37 @@
-# GERENCIADOR DE AGENDA DE BARBEIROS
+# GERENCIADOR DE TAREFAS
 
 <img src="assets/Logo_app.png" alt="App Logo" width="200"/>
 
 ## Descrição
 
-**Gerenciador de Agenda De Barbeiros** é um aplicativo desenvolvido para auxiliar os barbeiros a 
-organizarem seus agendamentos, gerenciar clientes, acompanhar o historico de serviços prestados e 
-visualizar relatorios financeiros de forma eficiente e pratico, na palma do mao em qualquer celular.
+**é um aplicativo desenvolvido para auxiliar a gestão de tarefas do dia a dia.
 
 ## Funcionalidades
 
-- **Cadastro de Clientes**
-- **Agendamento de Serviços**
-- **Histórico de Cortes**
-- **Relatórios Financeiros**
-- **Tema Dark e Light**
-- **Interface leve e intuitiva**
+- Adicionar Tarefas
+- Visualizar Tarefas
+- Excluir Tarefas
+  
 
 ## Capturas de Tela
 
-<img src="Home.png" alt="" height="500"/>
-<img src="LightMode.png" alt="" height="500"/>
-<img src="DarkMode.png" alt="" height="500"/>
+<img src="assets/Captutra_1.png" alt="" height="500"/>
+<img src="assets/Captura_2.png" alt="" height="500"/>
 
-## Como Jogar
 
-1. **Inicializando o Aplicativo**: Abra o aplicativo e acesse a pagina home.
-2. **Adicionar CLiente**: Vá para a secção de clientes e adicione as informações necessarias de cada
-   cliente.
-3. **Agende um Serviço**: Selecione uma data e hora, escolha o cliente e o serviço desejado com seu
-   respectivo valor. 
-4. **Gerencie seu Dia**: Visualize e edite seus agendamentos na tela principal.
-5. **Acompanhe os Saldoso**: Acesse a secao de saldos para verificar o saldo obtido no dia, semana ou mes.
+## Como Utilizar
+
+1. **Inicializando o Aplicativo**: Abra o aplicativo.
+2. **Adicionar Tarefas** : clique no botão adicionar para criar uma nova tarefa
+3. **Visualizar Tarefas** : as tarefas serão apresentadas em ordem cronológica
+4. **Excluir Tarefas** : clique no ícone de lixeira
+
 
 ## Instalação
 
 1. **Clone o repositório**:
     ```sh
-    git clone https://github.com/Gutobiel/BarberKotlin.git
+    git clone https://github.com/ThiagoAlbernaz/TrabalhoMobileSegunda.git
     ```
 2. **Abra no Android Studio**:
    - Vá em `File > Open` e selecione o diretório do projeto.
@@ -50,7 +44,7 @@ visualizar relatorios financeiros de forma eficiente e pratico, na palma do mao 
 ## Integrantes
 
 - **Nome dos Desenvolvedores**:
-- Augusto Rodrigues dos Santos RA 22252153;
-- Pauliany Bentes Pepato RA 22251174;
-- Thiago Lacerda Canhedo RA 22252356;
-- Vítor Rodrigues de Almeida RA 22252826.
+- Thiago Albernaz
+- Alexandre Khalil
+- Davi Eloi
+- Philipe Tiago
