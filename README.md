@@ -1,6 +1,6 @@
 # GERENCIADOR DE AGENDA DE BARBEIROS
 
-<img src="assets/Logo_app.jpg" alt="App Logo"/>
+<img src="assets/Logo_app.png" alt="App Logo"/>
 
 ## Descrição
 
